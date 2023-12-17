@@ -1,0 +1,11 @@
+{
+  "name": "Unity.com.ligofff.lgf-guid-to-asset-path.Editor.Tests",
+  "references": [
+    "Unity.com.ligofff.lgf-guid-to-asset-path"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": []
+}
